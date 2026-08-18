@@ -391,12 +391,31 @@ TIME: 00:04:14 | TEMP: 29.2 C | HUM: 58 % | LUX: 42 (DARK)
 
 ## Screenshots
 
-*(Interactive interface available directly in the web workbench view)*
+**1. 2D Smart Room Digital Twin**
+Real-time room digital twin with synchronized lighting zones, thermostat displays, and entry door motion hot zones.
+![2D Smart Room Digital Twin](images/1.png)
 
-1. **Virtual Breadboard & 2D Floorplan**: Real-time room digital twin with synchronized lighting zones, thermostat displays, and entry door motion hot zones.
-2. **Wokwi Simulation Hub**: Component pin matrix, electrical safety verification, and direct Wokwi embedding.
-3. **Step Verification Wizard**: Automated pass/fail test runner with single-click diagnostic injections.
-4. **Energy Analytics Dashboard**: Real-time power consumption breakdown ($P = V \times I$), daily kWh accumulation, and CO₂ offset telemetry.
+**2. Workbench & Twin**
+Interactive hardware bench with live controls, sensor parameter injection, and master state evaluation.
+![Workbench & Twin - Panel 1](images/2.png)
+![Workbench & Twin - Panel 2](images/3.png)
+
+**3. Wokwi Simulator Hub**
+Component pin matrix, electrical safety verification, and direct Wokwi embedding.
+![Wokwi Simulator Hub](images/4.jpg)
+![Live Embedded Simulator](images/5.png)
+
+**4. Embedded Automation Rules Engine**
+Live automation rule studio and autonomous conditional logic visualization.
+![Automation Rules Engine](images/6.png)
+
+**5. Energy Analytics Dashboard**
+Real-time power consumption breakdown ($P = V \times I$), daily kWh accumulation, and CO₂ offset telemetry.
+![Energy Analytics Dashboard](images/7.png)
+
+**6. Cloud & MQTT Hub**
+Live bi-directional telemetry stream, OTA parameter calibration, and remote web/mobile control panel.
+![Cloud & MQTT Hub](images/8.png)
 
 ---
 
@@ -437,9 +456,16 @@ TIME: 00:04:14 | TEMP: 29.2 C | HUM: 58 % | LUX: 42 (DARK)
 
 ## Author
 
-- **Name / Maintainer**: Smart Home Controller Engineering Team
-- **Contact / Feedback**: [juiramteke20@gmail.com](mailto:juiramteke20@gmail.com)
-- **Project Repository**: [Smart Home Controller – Embedded Systems](https://github.com/juiramteke20/smart-home-controller)
+## Jui Ramteke
+
+**GitHub:**  
+https://github.com/Jui-Ramteke
+
+**LinkedIn:**  
+https://www.linkedin.com/in/jui-ramteke/
+
+**Instagram:**  
+https://www.instagram.com/jui_ramteke_/
 
 ---
 *Developed with precision for embedded systems engineers, IoT developers, and smart building researchers.*
