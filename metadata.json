@@ -1,0 +1,6 @@
+{
+  "name": "Smart Home Controller - Embedded IoT Simulator",
+  "description": "Virtual hardware simulation, Wokwi ESP32 project export & live simulation hub, rule engine, serial monitor, energy monitor, and full Arduino C++ firmware for an industrial Smart Home Controller with PIR, LDR, DHT22, SSD1306 OLED, dual relays, and security alarms.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
